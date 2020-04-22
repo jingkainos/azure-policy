@@ -1,8 +1,8 @@
 {
   "properties": {
-    "displayName": "Enable Monitoring in Azure Security Center",
-    "policyType": "BuiltIn",
-    "description": "Monitor all the available security recommendations in Azure Security Center. This is the default policy for Azure Security Center.",
+    "displayName": "Enable Monitoring in Azure Security Center - NHS App",
+    "policyType": "Custom",
+    "description": "Monitor all the available security recommendations in Azure Security Center. This is the updated policy for NHS App.",
     "metadata": {
       "version": "2.0.1",
       "category": "Security Center"
